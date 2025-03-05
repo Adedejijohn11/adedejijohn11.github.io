@@ -49,7 +49,7 @@ body {
 }
 
 .main-section .container {
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
   height: 58vh;
   display: flex;
   flex-direction: row;
@@ -230,7 +230,7 @@ body {
   }
 
   .main-section {
-    height: 69.7vh;
+    height: 69.7dvh;
     padding-top: 30px;
   }
 
