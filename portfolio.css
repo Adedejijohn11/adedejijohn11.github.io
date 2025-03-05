@@ -247,18 +247,15 @@ body {
   .main-section .container {
     /* margin-top: 20px; */
     /* background-color: blueviolet; */
-    height: 75vh;
+    height: 76vh;
     display: flex;
     flex-direction: column;
     align-items: start;
     /* gap: 20px; */
   }
 
-  .main-section .container .section-1 {
-    width: 0;
-  }
   .main-section .container .section-1 h1 {
-    font-size: 22px;
+    font-size: 23px;
     width: 75vw;
     line-height: 12px;
   }
@@ -266,7 +263,7 @@ body {
   .main-section .container .section-1 .description {
     font-size: 13px;
     width: 75vw;
-    margin-bottom: 25px;
+    margin-bottom: 30px;
     color: rgb(215, 215, 215);
   }
 
