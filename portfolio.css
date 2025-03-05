@@ -139,6 +139,10 @@ body {
     margin-right: 27px;
   }
 
+  .main-section {
+    height: 58.1vh;
+  }
+
   .main-section .container .section-1 h1 {
     font-size: 30px;
     line-height: 15px;
