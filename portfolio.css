@@ -248,12 +248,13 @@ body {
     display: flex;
     flex-direction: column;
     align-items: start;
-    /* background-color: burlywood;  */
+    /* background-color: burlywood; */
   }
 
   .main-section .container .section-1 h1 {
     font-size: 19px;
     width: 75vw;
+    line-height: 10px;
     /* background-color: blue;  */
   }
 
