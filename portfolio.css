@@ -222,7 +222,7 @@ body {
 @media (max-width: 470px) {
   /* nav-bar */
   .navbar {
-    height: 7dvh;
+    /* height: 7dvh; */
     padding: 0 30px;
   }
 
