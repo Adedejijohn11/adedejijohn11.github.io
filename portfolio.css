@@ -239,7 +239,7 @@ body {
   /* main-section */
 
   .main-section {
-    height: 93dvh;
+    height: 76dvh;
     /* padding-top: 28px; */
     padding: 52px;
   }
@@ -284,7 +284,7 @@ body {
 
   .main-section .container .section-2 {
     width: 80vw;
-    padding-top: 20px;
+    padding-top: 30px;
     /* height: 40vh;
     background-color: brown; */
   }
